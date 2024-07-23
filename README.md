@@ -66,8 +66,8 @@ To run this application, you need to have the following installed on your machin
 
 ### Dependencies
 
-- `flutter/cupertino.dart`: For Cupertino style widgets for iOS devices.
-- `flutter/material.dart`: For Material design widgets for the app to take up the full screen of the device.
+- `flutter/cupertino.dart`: For Cupertino style widgets used in iOS devices.
+- `flutter/material.dart`: For Material design widgets for the app to take up the full screen of the device and allows for use of widgets in the application.
 
 ### Contact
 
