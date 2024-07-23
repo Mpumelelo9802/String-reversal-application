@@ -1,6 +1,6 @@
 # String Reversal & Palindrome Checker
 
-This Flutter application takes a string as input and returns the reversed string while checking if the input string is a palindrome. It provides a simple UI to input a string, submit it, and view the results.
+This Flutter application takes a string as input and returns the reversed string while checking if the input string is a palindrome. It provides a simple User Interface (UI) to input a string, submit it, and view the results.
 
 ## Features
 
