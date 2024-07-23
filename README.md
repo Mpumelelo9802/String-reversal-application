@@ -6,7 +6,7 @@ This Flutter application takes a string as input and returns the reversed string
 
 - Reverse a given string.
 - Check if the given string is a palindrome.
-- Simple and intuitive UI.
+- Simple and intuitive User Interface (UI).
 - Error handling for empty input.
 
 ## Getting Started
