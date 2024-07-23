@@ -60,7 +60,7 @@ To run this application, you need to have the following installed on your machin
 - **Methods:**
   - `reverseString(String input)`: Reverses the input string.
   - `isPalindrome(String input)`: Checks if the input string is a palindrome.
-  - `_onSubmit()`: Handles the submission of the input string.
+  - `_onSubmit()`: Handles the submission of the input string, returns the reversed string input and the boolean result of the Palindrome.
   - `_showErrorDialog()`: Displays an error dialog for empty input.
   - `_clearResults()`: Clears the input and results.
 
