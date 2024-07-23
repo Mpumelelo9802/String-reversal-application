@@ -24,7 +24,7 @@ To run this application, you need to have the following installed on your machin
 1. **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/yourusername/string_reversal_app.git](https://github.com/Mpumelelo9802/String-reversal-application.git)
+    git clone https://github.com/Mpumelelo9802/String-reversal-application.git
     cd string_reversal_app
     ```
 
