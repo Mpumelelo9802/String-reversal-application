@@ -75,4 +75,4 @@ Feel free to fork this repository, make changes, and submit pull requests. For m
 
 ### Contact
 
-For any questions, please contact Nicolas at Mpumelelo9802@gmail.com
+For any questions, please contact me at Mpumelelo9802@gmail.com
