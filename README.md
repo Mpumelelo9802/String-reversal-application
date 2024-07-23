@@ -69,10 +69,6 @@ To run this application, you need to have the following installed on your machin
 - `flutter/cupertino.dart`: For Cupertino style widgets.
 - `flutter/material.dart`: For Material design widgets.
 
-### Contributing
-
-Feel free to fork this repository, make changes, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
 ### Contact
 
 For any questions, please contact me at Mpumelelo9802@gmail.com
